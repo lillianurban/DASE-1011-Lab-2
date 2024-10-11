@@ -1,0 +1,18 @@
+//JSON schema 
+
+{
+  "code": "integer",
+  "weight": "integer",
+  "height": "integer",
+  "age": "integer",
+  "gender": "integer"
+}
+//Explanation 
+//Code: an integer that uniquely identifies each record (person)
+//Weight: an integere representing the weight of the person (in kg)
+//Height: An integer representing the height of the person (in cm)
+//Age: an integer representing the age of the person 
+//Gender: an integer representing the gender (1 for male, 0 for female)
+
+
+
